@@ -5,7 +5,7 @@
   "author": "Ariel Touré",
   "license": {
     "type": "MIT",
-    "url": "https://github.com/"
+    "url": "https://github.com/Ariel400/TK_Corporation_vitrine.git"
   },
   "devDependencies": {
     "bootstrap": "^3.3.7",
@@ -21,6 +21,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/"
+    "url": "https://github.com/Ariel400/TK_Corporation_vitrine.git"
   }
 }
